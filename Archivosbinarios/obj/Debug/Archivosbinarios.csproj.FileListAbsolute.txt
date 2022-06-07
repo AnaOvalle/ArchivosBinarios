@@ -1,0 +1,7 @@
+C:\Users\asfix\OneDrive\POO u5\ArchivosBinarios\Archivosbinarios\obj\Debug\Archivosbinarios.csproj.AssemblyReference.cache
+C:\Users\asfix\OneDrive\POO u5\ArchivosBinarios\Archivosbinarios\obj\Debug\Archivosbinarios.csproj.CoreCompileInputs.cache
+C:\Users\asfix\OneDrive\POO u5\ArchivosBinarios\Archivosbinarios\bin\Debug\Archivosbinarios.exe.config
+C:\Users\asfix\OneDrive\POO u5\ArchivosBinarios\Archivosbinarios\bin\Debug\Archivosbinarios.exe
+C:\Users\asfix\OneDrive\POO u5\ArchivosBinarios\Archivosbinarios\bin\Debug\Archivosbinarios.pdb
+C:\Users\asfix\OneDrive\POO u5\ArchivosBinarios\Archivosbinarios\obj\Debug\Archivosbinarios.exe
+C:\Users\asfix\OneDrive\POO u5\ArchivosBinarios\Archivosbinarios\obj\Debug\Archivosbinarios.pdb
